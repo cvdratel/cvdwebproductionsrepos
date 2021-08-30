@@ -1,4 +1,4 @@
-# Week 1 Blog Response
+# Week 1 Reflection
 The entire building process was okay. I really didn't have a set theme of how I wanted to introduce myself so I just followed along to what I took a picture of. I'm not to crazy about how it turned out in general since I couldn't even waste time learning from code camp and all that since I had my job. For the references, the song was an english cover of the original Fruits Basket Anime Opening and the video was a sort of a follow along to it. The challenge for me was figuring out how to code the video correctly and I guess the iframe worked just fine. In conclusion, if you're wondering why there is no site link to the actual file and not the code it's because I have no idea how to do that yet and I don't want to risk my work figuring it out.
 
 I'm excited for this semester and I'm hoping to learn more!
